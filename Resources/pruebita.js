@@ -1,11 +1,5 @@
-var win = Titanium.UI.createWindow({
-	title: 'Prueba',
-	backgroundColor: '#FFF'
+var win1 = Titanium.UI.createWindow({
+	title: 'Pruebas de Github',
+	backgroundColor: '#000',
 });
 
-win.open();
-
-var etiqueta = Titanium.UI.createLabel({
-	text: 'Hola mundo!'
-});
-win.add(etiqueta);
