@@ -5,10 +5,11 @@ Logfile initialized
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.016404 seconds on emulator to get ready
+[DEBUG] waited 3.198224 seconds on emulator to get ready
+[INFO] Waiting for the Android Emulator to become available
 [DEBUG] com.ideashappy.dislex installed? False
 [INFO] Copying project resources..
-[TRACE] COPYING MODIFIED FILE: /Users/almsx/Documents/Titanium Studio Workspace/Dislex/Resources/menuapp.js => /Users/almsx/Documents/Titanium Studio Workspace/Dislex/build/android/bin/assets/Resources/menuapp.js
+[TRACE] COPYING CREATED FILE: /Users/almsx/Documents/Titanium Studio Workspace/Dislex/Resources/pruebita.js => /Users/almsx/Documents/Titanium Studio Workspace/Dislex/build/android/bin/assets/Resources/pruebita.js
 [TRACE] Generating Java Classes
 [DEBUG] Processing Android resource drawables
 [DEBUG] copying app icon: /Users/almsx/Documents/Titanium Studio Workspace/Dislex/build/android/bin/assets/Resources/appicon.png
@@ -51,6 +52,7 @@ Logfile initialized
 [DEBUG] from resource zip => assets/Resources/cuestionario.js
 [DEBUG] from resource zip => assets/Resources/default.png
 [DEBUG] from resource zip => assets/Resources/menuapp.js
+[DEBUG] from resource zip => assets/Resources/pruebita.js
 [DEBUG] from resource zip => assets/app.json
 [DEBUG] from resource zip => assets/index.json
 [DEBUG] from resource zip => assets/tiapp.xml
@@ -91,6 +93,6 @@ Logfile initialized
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.015588 seconds on emulator to get ready
+[DEBUG] waited 0.015693 seconds on emulator to get ready
 [INFO] Installing application on device
 [INFO] Application installed. Launch from drawer on Home Screen
