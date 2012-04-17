@@ -12,3 +12,7 @@ var etiqueta = Titanium.UI.createLabel({
 
 win1.add(etiqueta);
 win1.open();
+
+var etiqueta2 = Titanium.UI.createLabel({
+	
+})
